@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello, I'm Erik</h2>
-  <h3>I am a Blogger, CS student, hobbyist Java developer and Kotlin enthusiast</h3>
+  <h3>I am a blogger, CS student, hobbyist Java developer and Kotlin enthusiast</h3>
 </div>
 Currently, I'm learning Java design patterns, integration and unit testing, web frameworks for Java and Kotlin (Spring and Ktor), advanced Kotlin language features, database theory (CS336), artificial intelligence theory (440), and scientific and technical writing skills (355:302).
 </br>
